@@ -1,5 +1,5 @@
 //colour set up
-color background = #FBEFEF;
+color background = #facdd8;
 color PaleBlush = #FADAD9;
 color LightRose = #F3C3C5;
 color SoftCoralPink = #E9ABAE;
@@ -11,6 +11,7 @@ color White = #FFFFFF;
 color SLIDEPINK = #f2b3c6;
 color OUTLINE = #f7cdd4;
 color SELECTOUTLINE = #fae3ed;
+color eyes = #5c3927;
 
 //Modes
 int mode; 
